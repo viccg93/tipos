@@ -107,7 +107,7 @@ fn main() {
 
     //tambien podemos usar un valor inicial que se repita n veces
 
-    let dummy_array_3 [4;5]; // equivalente a [4,4,4,4,4]
+    let dummy_array_3 = [4;5]; // equivalente a [4,4,4,4,4]
 
     //Al acceder a los elementos de un array por indice
     //Se puede dar el escenario donde se accede a un indice mas grande de los que existen
